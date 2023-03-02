@@ -1,1 +1,1 @@
-This is my own first commit. 
+This is my own first commit.
